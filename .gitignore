@@ -24,20 +24,10 @@ wheels/
 *.egg
 
 # Scraper outputs - exclude actual product data files
-product_*.json
-all_products.json
-batch_products_*.json
-product_*.csv
-batch_products_*.csv
-countries_and_urls.json
-countries_flat_list.json
+
 
 # Debug files
-debug_*.html
-debug_*.png
-debug_page_*.html
-debug_page_*.png
-debug_product_section.html
+
 
 # Keep example files
 !products_example.csv
