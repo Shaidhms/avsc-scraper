@@ -1,0 +1,126 @@
+{
+  "Europe": [
+    {
+      "country": "Austria",
+      "url": "https://www.avantorsciences.com/at/"
+    },
+    {
+      "country": "Belgium",
+      "url": "https://www.avantorsciences.com/be/"
+    },
+    {
+      "country": "Czech Republic",
+      "url": "https://www.avantorsciences.com/cz/"
+    },
+    {
+      "country": "Denmark",
+      "url": "https://www.avantorsciences.com/dk/"
+    },
+    {
+      "country": "Finland",
+      "url": "https://www.avantorsciences.com/fi/"
+    },
+    {
+      "country": "France",
+      "url": "https://www.avantorsciences.com/fr/"
+    },
+    {
+      "country": "Germany",
+      "url": "https://www.avantorsciences.com/de/"
+    },
+    {
+      "country": "Hungary",
+      "url": "https://www.avantorsciences.com/hu/"
+    },
+    {
+      "country": "Ireland",
+      "url": "https://www.avantorsciences.com/ie/"
+    },
+    {
+      "country": "Italy",
+      "url": "https://www.avantorsciences.com/it/"
+    },
+    {
+      "country": "Netherlands",
+      "url": "https://www.avantorsciences.com/nl/"
+    },
+    {
+      "country": "Northern Ireland",
+      "url": "https://www.avantorsciences.com/ni/"
+    },
+    {
+      "country": "Norway",
+      "url": "https://www.avantorsciences.com/no/"
+    },
+    {
+      "country": "Poland",
+      "url": "https://www.avantorsciences.com/pl/"
+    },
+    {
+      "country": "Portugal",
+      "url": "https://www.avantorsciences.com/pt/"
+    },
+    {
+      "country": "Slovakia",
+      "url": "https://www.avantorsciences.com/sk/"
+    },
+    {
+      "country": "Slovenia",
+      "url": "https://www.avantorsciences.com/si/"
+    },
+    {
+      "country": "Spain",
+      "url": "https://www.avantorsciences.com/es/"
+    },
+    {
+      "country": "Sweden",
+      "url": "https://www.avantorsciences.com/se/"
+    },
+    {
+      "country": "Switzerland",
+      "url": "https://www.avantorsciences.com/ch/"
+    },
+    {
+      "country": "United Kingdom",
+      "url": "https://www.avantorsciences.com/uk/"
+    },
+    {
+      "country": "Canada",
+      "url": "https://www.avantorsciences.com/ca/"
+    },
+    {
+      "country": "Mexico",
+      "url": "https://www.avantorsciences.com/mx/"
+    },
+    {
+      "country": "Puerto Rico",
+      "url": "https://www.avantorsciences.com/pr/"
+    },
+    {
+      "country": "USA",
+      "url": "https://www.avantorsciences.com/us/"
+    },
+    {
+      "country": "China Mainland",
+      "url": "https://www.avantorsciences.com/cn/"
+    },
+    {
+      "country": "India",
+      "url": "https://www.avantorsciences.com/in/"
+    },
+    {
+      "country": "Japan",
+      "url": "https://www.avantorsciences.com/jp/"
+    },
+    {
+      "country": "Singapore",
+      "url": "https://www.avantorsciences.com/sg/"
+    },
+    {
+      "country": "South Korea",
+      "url": "https://www.avantorsciences.com/kr/"
+    }
+  ],
+  "North America": [],
+  "Asia/Pacific": []
+}
